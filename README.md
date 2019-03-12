@@ -1,0 +1,1 @@
+# terraform-inspector-stack
